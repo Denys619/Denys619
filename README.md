@@ -9,7 +9,7 @@ Currently focusing on improving my C++ skills by exploring real-world codebases 
 - Exploring Linux development and build tools (CMake, Git)
 
 **Tools I use**
-- C++, CMake, Git, Linux
+- C++, CMake, Git, Linux, Visual Studio, Vim, GCC, Clang
 - Exploring open source and working with real projects
 
 **Goals**
